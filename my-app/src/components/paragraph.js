@@ -9,8 +9,6 @@ const CaseParagraph = styled.div`
     text-align: left;
 
 
-    margin-left: 30%;
-    margin-right: 30%;
     margin-top: 1em;
     margin-bottom: 1.5em;
 

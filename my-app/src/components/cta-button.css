@@ -1,0 +1,27 @@
+.cta-button{
+    height: 8vh;
+    line-height: 8vh;
+    background-color: black;
+    outline:none;
+    border: 0px;
+    color: white;
+
+    font-weight: black;
+    font-weight: 900;
+    font-size: 1vw;
+    border-style: hidden;
+
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+
+}
+
+.cta-button:hover{
+    background-color: white;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+
+}
