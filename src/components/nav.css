@@ -70,9 +70,7 @@
 
     }
 
-    #work{
-        margin-left: 50%;
-    }
+  
 
     
 }
@@ -80,9 +78,7 @@
 
 @media screen and (max-width: 500px){
 
-    #work{
-        margin-left: 30%;
-    }
+   
 
     
 }
