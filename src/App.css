@@ -44,3 +44,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+@media screen and (max-width: 500px){
+
+  .Manifesto{
+      margin-left: 0%;
+      margin-right: 0%;
+
+  }
+
+  
+}
