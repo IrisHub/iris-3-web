@@ -11,7 +11,7 @@ function Manifesto() {
     <Line text = "Assistants were supposed to help students like you.  Seriously.">
     </Line>
 
-    <Line text = "But, we never quite got Jarvis from Iron Man or a futuristic VR headset.">
+    <Line text = "But, we never quite got Jarvis from Iron Man.">
     </Line>
 
 
