@@ -21,10 +21,10 @@ function Manifesto() {
     <Line text = "You learned to live with the products you had, and over time, the term personal assistant got a bad rap.">
     </Line>
 
-    <Paragraph text = "Now, an assistant sounds more like a fancy butler than something you can see yourself needing.  On top of that, you're busier than you ever were before.  The word has lost its touch.  Its lost the joy, and even if you had the time to care, you wouldn't. "> 
+    <Paragraph text = "Now, an assistant sounds more like a fancy butler than something you can see yourself needing.  On top of that, you're busier than you ever were before.  The word has lost it's touch.  It's lost the joy, and even if you had the time to care, you wouldn't. "> 
     </Paragraph>
 
-    <Paragraph text = "Iris is a second chance to fall in love with the word assistant.   It's how it should have been built from the beginning, dead simple, and its deeply yours.  Its your starter pack for your life as a student, pandemic and all. "> 
+    <Paragraph text = "Iris is a second chance to fall in love with the word assistant.   It's how it should have been built from the beginning, dead simple, and its deeply yours.  It's your starter pack for your life as a student, pandemic and all. "> 
     </Paragraph>
 
     <Line text = "And we're starting somewhere you spend a lot of time in.  The kitchen, making food for yourself and others.">
