@@ -24,8 +24,10 @@
     border-color: black;
     border-width: 3px;
     line-height: 8vh;
+}
 
-
+a:active{
+    text-decoration: none;
 }
 
 @media screen and (max-width: 500px){
