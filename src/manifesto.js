@@ -11,9 +11,6 @@ function Manifesto() {
     <Line text = "Assistants were supposed to help students like you.  Seriously.">
     </Line>
 
-    <Line text = "But, we never quite got Jarvis from Iron Man.">
-    </Line>
-
 
     <Paragraph text = "Instead, Siri tells you what it found on the web.  Alexa tells Jeff Bezos what you found on the web.  You expected more from these products.  You were a kid when they were first released.  And you placed wonder and excitement into imagining a future where our technology was crafted to help us be our best self."> 
     </Paragraph>
