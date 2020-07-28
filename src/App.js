@@ -16,7 +16,7 @@ function App() {
     <div className="App">
     <MyNavbar></MyNavbar>
     <Manifesto></Manifesto>
-    <a href = "https://irissuggestions.typeform.com/to/FuP4UNp9" target = "_blank"> <ConfirmButton text = "Sign Up Here"></ConfirmButton> </a> 
+    <a href = "https://irissuggestions.typeform.com/to/FuP4UNp9" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
     <Divider></Divider>
 
     </div>
