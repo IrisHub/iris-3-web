@@ -8,28 +8,34 @@ import Line from "./components/line";
 function Manifesto() {
   return (
     <div className="Manifesto">
-    <Line text = "Assistants were supposed to help students like you.  Seriously.">
+    <Line text = "There aren't many reasons to hope right now.">
     </Line>
 
 
-    <Paragraph text = "Instead, Siri tells you what it found on the web.  Alexa tells Jeff Bezos what you found on the web.  You expected more from these products.  You were a kid when they were first released.  And you placed wonder and excitement into imagining a future where our technology was crafted to help us be our best self."> 
+    <Paragraph text = "Our aspirations as students have been thrown into disarray as we do our best to adjust to our new lives online.  The county is torn apart. And the technology on our phones is increasingly cold and sterile.  It feels like the world is going in the wrong direction, and we can't do anything but sit there and watch."> 
     </Paragraph>
 
-    <Line text = "You learned to live with the products you had, and over time, the term personal assistant got a bad rap.">
-    </Line>
-
-    <Paragraph text = "Now, an assistant sounds more like a fancy butler than something you can see yourself needing.  On top of that, you're busier than you ever were before.  The word has lost it's touch.  It's lost the joy, and even if you had the time to care, you wouldn't. "> 
+    <Paragraph text = "Students our age faced this problem before.  In the 1960s, young thinkers and activists birthed a counterculture that rejected the same bleak feeling we feel now.  They demanded and fought for a world that gave them hope.  They protested on the streets, rejected the demands of an older generation, and cast technology out of bureaucratic research labs and into the hands of the people. "> 
     </Paragraph>
 
-    <Paragraph text = "Iris is a second chance to fall in love with the word assistant.   It's how it should have been built from the beginning, dead simple, and its deeply yours.  It's your starter pack for your life as a student, pandemic and all. "> 
+    <Line text = "These students demanded that technology shouldn't merely be an instrument, but that it should be a powerful tool to help you think in new ways.  ">
+    </Line>
+
+    <Paragraph text = "Today, the products and services that we use don't inspire us anymore.   The apps on our phones spy on us.  Your most personal information is being sold. When was the last time Facebook or Microsoft released a product that inspired you?"> 
     </Paragraph>
 
-    <Line text = "And we're starting somewhere you spend a lot of time in.  The kitchen, making food for yourself and others.">
+    <Line text = "We're extending the ideas of past counterculture thinkers to hijack technology for a second time.  We believe that technology should be an extension of you, and we disagree that the technology on your phone can't be inspiring.">
     </Line>
 
-
-    <Line text = "Sign up for our waitlist, please.  We're accepting students in small groups so we can deliver a stellar, crafted experience, and white glove service from the whole team.">
+    <Line text = "As a first step, we are starting with a set of tools for learning — an interface that helps you with your new identity as a student in the online world.  ">
     </Line>
+
+    <Line text = "We're a small team of activists, hackers, scientists, artists and thinkers that have come together, hopeful as ever, to challenge this status quo.">
+    </Line>
+
+    <Line text = "We welcome you to challenge this with us — we could sure use the help. Sign up for our waitlist, share Iris with those you care about, and help us deliver on the promise of building an extension of you. ">
+    </Line>
+
 
     </div>
   );

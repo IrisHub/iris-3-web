@@ -5,6 +5,11 @@ import Manifesto from "./manifesto";
 import ConfirmButton from './components/cta-button.js';
 import MyNavbar from './components/nav.js';
 import Divider from './components/divider.js';
+import Image from "./image";
+import Title from './components/title.js'
+import Subtitle from './components/subtitle.js'
+
+
 
 
 
@@ -15,6 +20,21 @@ function App() {
   return (
     <div className="App">
     <MyNavbar></MyNavbar>
+    <Divider></Divider>
+
+
+    <Title text = "An Extension of You"></Title>
+    <Subtitle text = "Iris helps you think in new ways."></Subtitle>
+    <a href = "https://irissuggestions.typeform.com/to/FuP4UNp9" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
+
+    <Divider></Divider>
+
+    <Image
+      image = "./images/computer@6x.png"
+    ></Image>
+
+
+  
     <Manifesto></Manifesto>
     <a href = "https://irissuggestions.typeform.com/to/FuP4UNp9" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
     <Divider></Divider>

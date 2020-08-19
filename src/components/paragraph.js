@@ -1,10 +1,12 @@
 import React, {Component} from 'react'; 
 import styled, { css } from 'styled-components';
+import '../index.css';
+
 
 const CaseParagraph = styled.div`
     font-weight: 500;
     font-family: DM Sans;
-    font-size: 24px;
+    font-size: 21px;
     line-height: 40px;
     text-align: left;
     margin-top: 1em;
