@@ -25,7 +25,7 @@ function App() {
 
     <Title text = "An Extension of You"></Title>
     <Subtitle text = "Iris helps you think in new ways."></Subtitle>
-    <a href = "https://irissuggestions.typeform.com/to/FuP4UNp9" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
+    <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
 
     <Divider></Divider>
 
@@ -36,7 +36,7 @@ function App() {
 
   
     <Manifesto></Manifesto>
-    <a href = "https://irissuggestions.typeform.com/to/FuP4UNp9" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
+    <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
     <Divider></Divider>
 
     </div>
