@@ -24,7 +24,7 @@ function App() {
 
 
     <Title text = "An Extension of You"></Title>
-    <Subtitle text = "Iris helps you think in new ways."></Subtitle>
+    <Subtitle text = "A technology rewrite that helps you think in new ways as a student."></Subtitle>
     <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
 
     <Divider></Divider>
