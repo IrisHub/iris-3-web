@@ -18,3 +18,13 @@ code {
   font-family: 'Counterculture';
   src: local('Counterculture'), url(./fonts/Counterculture.ttf) format('truetype');
 }
+
+@font-face {
+  font-family: 'Helvetica';
+  src: local('Counterculture'), url(./fonts/Helvetica.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'HelveticaBold';
+  src: local('Counterculture'), url(./fonts/Helvetica-Bold.ttf) format('truetype');
+}
