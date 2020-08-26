@@ -27,7 +27,7 @@ function Manifesto() {
     <Line text = "We're extending the ideas of past counterculture thinkers to hijack technology for a second time.  We believe that technology should be an extension of you.">
     </Line>
 
-    <Line text = "As a first step, we're starting with a set of tools for your life as a remote student — an interface that helps you with your new identity in the online world.">
+    <Line text = "As a first step, we're starting with a set of tools for your life as a remote student — an iOS application that helps you with your new identity in the online world.">
     </Line>
 
     <Line text = "We're a small team of activists, hackers, scientists, artists and thinkers that have come together, hopeful as ever, to challenge this status quo.">
