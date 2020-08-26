@@ -8,6 +8,8 @@ import Divider from './components/divider.js';
 import Image from "./image";
 import Title from './components/title.js'
 import Subtitle from './components/subtitle.js'
+import Alert from './components/alert.js'
+
 
 
 
@@ -19,6 +21,7 @@ import Subtitle from './components/subtitle.js'
 function App() {
   return (
     <div className="App">
+    <Alert text = "NEW:  We've started sending invites out to seniors from UC Berkeley from our waitlist!"></Alert>
     <MyNavbar></MyNavbar>
     <Divider></Divider>
 
