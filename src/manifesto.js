@@ -8,11 +8,11 @@ import Line from "./components/line";
 function Manifesto() {
   return (
     <div className="Manifesto">
-    <Line text = "There aren't a lot of reasons to hope right now in your life as a student.">
+    <Line text = "There aren't enough reasons to hope right now as a student.">
     </Line>
 
 
-    <Paragraph text = "And now your hopes for a normal year basically just got thrown away.  The county is torn apart.  You might even feel like the world is going in the wrong direction, and that you can't do anything but sit there and watch."> 
+    <Paragraph text = "And you already know this, but your hopes for a normal year basically just got thrown away.  The county is torn apart.  You might even feel like the world is going in the wrong direction, and that you can't do anything but sit there and watch."> 
     </Paragraph>
 
     <Paragraph text = "But students our age faced this problem before. In the 1960s, young thinkers and activists birthed a counterculture that rejected the same bleak feeling you feel now. They fought for a world that gave them hope. They protested on the streets and rejected the demands of an older generation.  Then, they cast technology out of stuffy research labs and into the hands of the people."> 
@@ -27,7 +27,7 @@ function Manifesto() {
     <Line text = "So we're extending the ideas of past counterculture thinkers to hijack technology for a second time. We believe that technology should be an extension of you.">
     </Line>
 
-    <Line text = "And as a first step, we're starting with a set of tools for your life as a remote student — an iOS app that helps you with your new identity in the online world.">
+    <Line text = "And as a first step, we're starting with a set of tools for your life as a remote student — an iOS app that helps you reclaim your new identity in the online world, with the people you care about.">
     </Line>
 
     <Line text = "We're a small team of student activists, hackers, scientists, artists and thinkers that have come together to challenge the status quo.">
