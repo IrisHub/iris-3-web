@@ -1,6 +1,6 @@
 .cta-button{
     height: 48px;
-    line-height: 5vh;
+    line-height: 5.5vh;
     background-color: #F83D7B;
     outline:none;
     border: 0px;
@@ -27,10 +27,10 @@
     background-color:white;
 
     color: #F83D7B;
-    border-style: solid;
+    outline-style: solid;
     border-color: #F83D7B;
     border-width: 3px;
-    line-height: 5vh;
+    line-height: 5.5vh;
 }
 
 @media screen and (max-width: 500px){
