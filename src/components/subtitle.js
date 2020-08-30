@@ -22,7 +22,7 @@ margin-bottom: 2em;
 const CaseTitle = styled.div`
     font-weight: normal;
     font-family: Helvetica;
-    font-size: 32px;
+    font-size: 36px;
     line-height: 1.4;
     font-weight: 400;
     text-align: center;
