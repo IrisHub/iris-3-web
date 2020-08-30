@@ -17,6 +17,8 @@ width: 40px;
    @media (max-width: 500px) {
     font-size: 24px;
     line-height: 1.8;
+    flex-direction: column;
+
        
      }
 `;
