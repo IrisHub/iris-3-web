@@ -12,7 +12,7 @@ function Manifesto() {
     </Line>
 
 
-    <Paragraph text = "And you already know this, but your hopes for a normal year basically just got thrown away.  The county is torn apart.  You might even feel like the world is going in the wrong direction, and that you can't do anything but sit there and watch."> 
+    <Paragraph text = "And you already know this, but your hopes for a normal year basically just got thrown away.  The country is torn apart.  You might even feel like the world is going in the wrong direction, and that you can't do anything but sit there and watch."> 
     </Paragraph>
 
     <Paragraph text = "But students our age faced this problem before. In the 1960s, young thinkers and activists birthed a counterculture that rejected the same bleak feeling you feel now. They fought for a world that gave them hope. They protested on the streets and rejected the demands of an older generation.  Then, they cast technology out of stuffy research labs and into the hands of the people."> 
@@ -21,7 +21,7 @@ function Manifesto() {
     <Line text = "These students demanded that technology shouldn't just be a cold instrument, but that it should be a powerful tool to help you be your best, most enlightened self.">
     </Line>
 
-    <Paragraph text = "Now the products and services that you use don't inspire you anymore. The apps on your phone spies on you. Your most personal information is sold everyday. And when was the last time Facebook or Microsoft released a product that inspired you?"> 
+    <Paragraph text = "Now the products and services that you use don't inspire you anymore. The apps on your phone spy on you. Your most personal information is sold everyday. And when was the last time Facebook or Microsoft released a product that inspired you?"> 
     </Paragraph>
 
     <Line text = "So we're extending the ideas of past counterculture thinkers to hijack technology for a second time. We believe that technology should be an extension of you.">
