@@ -13,7 +13,7 @@ margin-bottom: 1.5em;
    }
 
    @media (max-width: 500px) {
-    font-size: 24px;
+    font-size: 21px;
     line-height: 1.4;
        
      }
@@ -27,7 +27,7 @@ const CaseTitle = styled.div`
     font-weight: 600;
     text-align: center;
       @media (max-width: 500px) {
-      font-size: 48px;
+      font-size: 36px;
       line-height: 1.4;
          
        }

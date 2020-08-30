@@ -41,7 +41,7 @@ function App() {
        
     <SplitImage
       image1 = "./images/computer@2x.png"
-      image2 = "./images/cal@2x.png"
+      image2 = "./images/oski@2X.png"
 
     ></SplitImage> 
 
