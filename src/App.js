@@ -27,7 +27,7 @@ function App() {
     <MyNavbar></MyNavbar>
 
 
-    <Title text = 'IRIS IS A TOOL THAT REKINDLES YOUR FRIEND GROUP IN ONLINE SCHOOL.'></Title>
+    <Title text = 'IRIS IS A TOOL THAT HELPS YOU MAKE SENSE OF YOUR TIME IN ONLINE SCHOOL.'></Title>
     <Subtitle text = 'We miss campus.  You do too. Reclaim your identity as a student online, with the people you care about.'></Subtitle>
     <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
 
