@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import Privacy from './privacy';
+import Tos from './tos';
+
 
 import * as serviceWorker from './serviceWorker';
 import { useLocation, BrowserRouter as Router, Route, Switch } from 'react-router-dom';
@@ -35,6 +37,8 @@ const routing = (
 
         <Route exact path="/" component={App} />
         <Route path="/privacy" component={Privacy} />
+        <Route path="/tos" component={Tos} />
+
   
 
         </Switch>
