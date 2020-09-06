@@ -90,7 +90,8 @@ const Privacy = ( {image, caption, color} ) => {
 
 
 
-        <Paragraph text = '1. WHAT INFORMATION DO WE COLLECT?
+        <Paragraph text = '
+        1. WHAT INFORMATION DO WE COLLECT?
 
 
 Information automatically collected
