@@ -130,7 +130,7 @@ Third-Party Advertisers. We may use third-party advertising companies to serve a
 
 GOOGLE USER DATA
 
-Within our application, we may sometimes provide additional functionality through use of some data that you can choose to provide through your various Google services. Currently, we use the google scope https://www.googleapis.com/auth/calendar to request a user&quot;s calendar information in order to display this on their application dashboard as well as allow them the option to share important events with their close friends. This additionally provides functionality that aids students in managing their class schedules directly from the application
+Within our application, we may sometimes provide additional functionality through use of some data that you can choose to provide through your various Google services. Currently, we use the google scope https://www.googleapis.com/auth/calendar to request user calendar information in order to display this on their application dashboard as well as allow them the option to share important events with their close friends. This additionally provides functionality that aids students in managing their class schedules directly from the application
 
 
 3. HOW LONG DO WE KEEP YOUR INFORMATION?
@@ -207,7 +207,6 @@ We may update this privacy notice from time to time. The updated version will be
 If you have questions or comments about this policy, you may email us at irissuggestions@gmail.com or by post to:
 
 Iris
-__________
 Berkeley, CA 94704
 United States
 
