@@ -27,7 +27,7 @@ const Privacy = ( {image, caption, color} ) => {
         <Wrapper>
 
         <Title text = "Privacy Policy"></Title>
-        <Line text = "Last Updated: February 4, 2020 "
+        <Line text = "Last Updated: September 8, 2020 "
         ></Line>
 
         <Paragraph text = ""
@@ -128,6 +128,10 @@ Business Transfers. We may share or transfer your information in connection with
 
 Third-Party Advertisers. We may use third-party advertising companies to serve ads when you visit the Apps. These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.
 
+GOOGLE USER DATA
+
+Within our application, we may sometimes provide additional functionality through use of some data that you can choose to provide through your various Google services. Currently, we use the google scope https://www.googleapis.com/auth/calendar to request a user&quot;s calendar information in order to display this on their application dashboard as well as allow them the option to share important events with their close friends. This additionally provides functionality that aids students in managing their class schedules directly from the application
+
 
 3. HOW LONG DO WE KEEP YOUR INFORMATION?
 
@@ -150,7 +154,7 @@ We have implemented appropriate technical and organizational security measures d
 
 In Short:  We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at __________.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at irissuggestions@gmail.com.
 
 
 
@@ -200,7 +204,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 10. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
-If you have questions or comments about this policy, you may email us at __________ or by post to:
+If you have questions or comments about this policy, you may email us at irissuggestions@gmail.com or by post to:
 
 Iris
 __________
