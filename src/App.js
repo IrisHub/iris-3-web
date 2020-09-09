@@ -11,6 +11,10 @@ import SplitImage from "./split-img";
 import Title from './components/title.js'
 import Subtitle from './components/subtitle.js'
 import Alert from './components/alert.js'
+//power transitions on home
+import {CSSTransition, TransitionGroup} from 'react-transition-group';
+import Fade from 'react-reveal/Fade';
+
 
 
 
@@ -30,7 +34,6 @@ function App() {
     <Title text = 'YOUR TOOL TO MAKE THE MOST OF YOUR TIME IN ONLINE SCHOOL.'></Title>
     <Subtitle text = "Your new life online got real stressful, and it's week 3.  Iris helps you stay close to your friends and on top of your work.   "></Subtitle>
     <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
-
     {/* <Divider></Divider> */}
 
 {/*     
@@ -45,11 +48,12 @@ function App() {
     ></SplitImage> 
 
 
-  
+    <Fade> 
     <Manifesto></Manifesto>
+    </Fade>
+
     <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
     <Divider></Divider>
-
     </div>
   );
 }
