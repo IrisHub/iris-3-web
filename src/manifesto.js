@@ -25,9 +25,6 @@ function Manifesto() {
     <Paragraph text = "Now the products you use don't inspire you anymore.  So we're extending the ideas of past counterculture thinkers to hijack technology for a second time. We believe that technology should be an extension of you."> 
     </Paragraph>
 
-    <Line text = "So we're extending the ideas of past counterculture thinkers to hijack technology for a second time. We believe that technology should be an extension of you.">
-    </Line>
-
     <Line text = "And as a first step, we're starting with an iOS app that helps you make the most of your time in online school.">
     </Line>
 

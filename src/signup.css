@@ -1,12 +1,13 @@
 .Form{
     display: flex;
     flex-direction: row;
+    padding-left: 37%;
+    padding-right: 37%;
 }
 
 .SignUpContainer{
     padding-bottom: 5em;
-    padding-left: 38%;
-    padding-right: 40%;
+
 }
 
 .SignUpButton{
@@ -14,7 +15,6 @@
     background-color:#F83D7B;
     outline:none;
     border: 0px;
-    margin-right: 2em;
     color: white;
     padding-top: 6px;
     padding-bottom: 6px;

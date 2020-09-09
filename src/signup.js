@@ -65,12 +65,12 @@ class SignUp extends Component{
             <div className = "SignUpContainer"> 
     
             <form onSubmit= {this.submitHandler} className = "Form">
-                <input className = "SignUpInput" type = "text" placeholder = "Enter your email                                                              " 
+                <input className = "SignUpInput" type = "text" placeholder = "Enter your email" 
                 value ={this.state.email} onChange = {this.changeHandler}>
                 </input>
-                <button type = "submit" className = {this.state.copied ? "hidden": "SignUpButton"} onClick = {this.myClick}> Subscribe
+                <button type = "submit" className = {this.state.copied ? "hidden": "SignUpButton"} onClick = {this.myClick}> Join Waitlist
                 </button>
-                </form>
+            </form>
 
             {this.state.emailIsValid ? 
                     <React.Fragment>
