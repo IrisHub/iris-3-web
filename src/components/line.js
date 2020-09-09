@@ -23,7 +23,6 @@ const CaseLine = styled.div`
       line-height: 1.8;
          
        }
-
 `;
 
 const Line = ( {text, color} ) => {
