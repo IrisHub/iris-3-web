@@ -5,6 +5,7 @@ import Line from "./components/line";
 
 
 
+
 function Manifesto() {
   return (
     <div className="Manifesto">

@@ -7,6 +7,8 @@ import MyNavbar from './components/nav.js';
 import Divider from './components/divider.js';
 import Image from "./image";
 import SplitImage from "./split-img";
+import SignUp from "./signup";
+
 
 import Title from './components/title.js'
 import Subtitle from './components/subtitle.js'
@@ -33,8 +35,9 @@ function App() {
 
     <Title text = 'YOUR TOOL TO MAKE THE MOST OF YOUR TIME IN ONLINE SCHOOL.'></Title>
     <Subtitle text = "Your new life online got real stressful, and it's week 3.  Iris helps you stay close to your friends and on top of your work.   "></Subtitle>
-    <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
+    {/* <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a>  */}
     {/* <Divider></Divider> */}
+    <SignUp></SignUp>
 
 {/*     
     <Image
