@@ -54,8 +54,9 @@ function App() {
     <Fade> 
     <Manifesto></Manifesto>
     </Fade>
+    <SignUp></SignUp>
 
-    <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a> 
+    {/* <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a>  */}
     <Divider></Divider>
     </div>
   );

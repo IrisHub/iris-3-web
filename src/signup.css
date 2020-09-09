@@ -98,7 +98,15 @@
     .SignUpInput{
         margin-right: 0;
     }
-
-
-        
+ 
     }
+
+@media screen and (max-width: 500px){
+    
+    .SignUpContainer{
+        padding-bottom: 5em;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+     
+        }
