@@ -7,6 +7,8 @@ import MyNavbar from './components/nav.js';
 import Divider from './components/divider.js';
 import Image from "./image";
 import SplitImage from "./split-img";
+import TripleImage from "./triple-img";
+
 import SignUp from "./signup";
 
 
@@ -39,16 +41,22 @@ function App() {
     {/* <Divider></Divider> */}
     <SignUp></SignUp>
 
-{/*     
-    <Image
-      image = "./images/computer@6x.png"
-    ></Image> */}
+    
+     <Image
+       image = "./images/phoneprod@2x.png"
+     ></Image> 
 
-       
+{/*        
     <SplitImage
       image1 = "./images/computer@2x.png"
       image2 = "./images/oski@2X.png"
-    ></SplitImage> 
+    ></SplitImage>  */}
+
+    {/* <TripleImage
+      image1 = "./images/oski@2x.png"
+      image2 = "./images/phoneprod@2x.png"
+      image3 = "./images/computer@2x.png"
+    ></TripleImage>  */}
 
 
     <Fade> 
