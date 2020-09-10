@@ -1,8 +1,8 @@
 .Form{
     display: flex;
     flex-direction: row;
-    padding-left: 37%;
-    padding-right: 37%;
+    padding-left: 35%;
+    padding-right: 35%;
 }
 
 .SignUpContainer{
@@ -43,11 +43,13 @@
 
 
 .SignUpInput{
-    border: solid 3px #000000;
-    font-size: 18px;
+    border: solid 4px #000000;
+    font-size: 24px;
     padding: 0.35em;
     padding-left: 1em;
-    margin-right: 2em;
+    margin-right: 1em;
+    border-radius: 2px;
+
 }
 
 .SignUpTitle{
