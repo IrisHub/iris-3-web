@@ -60,6 +60,8 @@ function App() {
 
 
     <Fade> 
+    <Subtitle text = "Berkeley friends, this is for you!"></Subtitle>
+
     <Manifesto></Manifesto>
     </Fade>
     <SignUp></SignUp>
