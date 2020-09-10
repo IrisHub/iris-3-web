@@ -43,7 +43,7 @@ function App() {
 
     
      <Image
-       image = "./images/phoneprod@2x.png"
+       image = "./images/phoneprod@2x.gif"
      ></Image> 
 
 {/*        
