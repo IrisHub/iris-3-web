@@ -5,6 +5,8 @@ import Manifesto from "./manifesto";
 import ConfirmButton from './components/cta-button.js';
 import MyNavbar from './components/nav.js';
 import Divider from './components/divider.js';
+import Footer from './components/footer';
+
 import Image from "./image";
 import SplitImage from "./split-img";
 import TripleImage from "./triple-img";
@@ -68,6 +70,7 @@ function App() {
 
     {/* <a href = "https://irisapp.typeform.com/to/aER0lIzm" target = "_blank"> <ConfirmButton text = "Join the Waitlist"></ConfirmButton> </a>  */}
     <Divider></Divider>
+    <Footer></Footer>
     </div>
   );
 }
