@@ -1,6 +1,8 @@
 import React, {Component} from 'react'; 
 import styled, { css } from 'styled-components'
 import './footer.css';
+import '../index.css';
+
 // import Social from "./components/social";
 import { Link, BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import iris from '../images/irislogodark@6x.png';
@@ -20,8 +22,8 @@ const Footer = ( {title, color} ) => {
                 <div className = "section-two-title">Iris</div>
                 {/* <img className = 'logo' src={iris} alt=""></img> */}
 
-                <div className = "section-two-study">Iris helps you make the most of your time in online school.</div>
-                <div className = "section-two-study">© 2020 Iris Co.</div>
+                <div className = "section-two-text">Iris helps you make the most of your time in online school.</div>
+                <div className = "section-two-text">© 2020 Iris Co.</div>
 
                 {/* <Social image = "fab fa-dribbble"
                 link = "https://dribbble.com/samjgorman"/>
@@ -39,8 +41,8 @@ const Footer = ( {title, color} ) => {
 
             <div className = "section-two"> 
                 <div className = "section-two-title">Company</div>
-                    <div className = "section-two-study" >🔒   <Link className = "footerLink" to = "/privacy"> Privacy </Link></div>
-                    <div className = "section-two-study">🤖   <Link className = "footerLink"to = "/tos"> Terms of Service </Link></div>
+                    <div className = "section-two-text" >🔒   <Link className = "footerLink" to = "/privacy"> Privacy </Link></div>
+                    <div className = "section-two-text">🤖   <Link className = "footerLink"to = "/tos"> Terms of Service </Link></div>
                     {/* <div className = "section-two-study">💸   <Link className = "footerLink" to = "/case"> UI design with <b> Microscholarships </b></Link> </div>
                     <div className = "section-two-study">🎨   <Link className = "footerLink" to = "/figma-kp"> More UI design with <b> Figma Plugins </b></Link> </div> */}
 

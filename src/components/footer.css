@@ -50,8 +50,8 @@ a:hover{
 }
 
 .footer-text{
-    font-family: Overpass;
-    font-size: 16px;
+    font-family: Helvetica;
+    font-size: 18px;
     font-weight: normal;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -67,8 +67,12 @@ a:hover{
     margin-bottom: 1.5em;
 }
 
-.section-two-study{
+.section-two-text{
     margin-bottom: 0.5em;
+    font-family: Helvetica;
+    font-size: 18px;
+
+
     
 }
 
