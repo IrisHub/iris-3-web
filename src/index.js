@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import Privacy from './privacy';
 import Tos from './tos';
+import Community from './community';
+
 
 
 import * as serviceWorker from './serviceWorker';
@@ -38,6 +40,8 @@ const routing = (
         <Route exact path="/" component={App} />
         <Route path="/privacy" component={Privacy} />
         <Route path="/tos" component={Tos} />
+        <Route path="/community" component={Community} />
+
 
   
 
