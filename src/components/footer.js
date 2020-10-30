@@ -43,6 +43,8 @@ const Footer = ( {title, color} ) => {
                 <div className = "section-two-title">Company</div>
                     <div className = "section-two-text" >🔒   <Link className = "footerLink" to = "/privacy"> Privacy </Link></div>
                     <div className = "section-two-text">🤖   <Link className = "footerLink"to = "/tos"> Terms of Service </Link></div>
+                    <div className = "section-two-text">🥺   <Link className = "footerLink"to = "/community"> Community Guidelines </Link></div>
+
                     {/* <div className = "section-two-study">💸   <Link className = "footerLink" to = "/case"> UI design with <b> Microscholarships </b></Link> </div>
                     <div className = "section-two-study">🎨   <Link className = "footerLink" to = "/figma-kp"> More UI design with <b> Figma Plugins </b></Link> </div> */}
 
