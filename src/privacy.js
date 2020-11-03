@@ -27,7 +27,7 @@ const Privacy = ( {image, caption, color} ) => {
         <Wrapper>
 
         <Title text = "Privacy Policy"></Title>
-        <Line text = "Last Updated: September 8, 2020 "
+        <Line text = "Last Updated: November 3, 2020 "
         ></Line>
 
         <Paragraph text = ""
@@ -83,13 +83,6 @@ const Privacy = ( {image, caption, color} ) => {
         <Line text = '10. HOW CAN YOU CONTACT US ABOUT THIS POLICY?'
         ></Line>
         
-
-        
-
-
-
-
-
         <Paragraph text = '
         1. WHAT INFORMATION DO WE COLLECT?
 
@@ -103,12 +96,12 @@ We automatically collect certain information when you visit, use or navigate the
 
 Information collected through our Apps
 
-In Short:   We may collect information regarding your geo-location, when you use our apps.
+In Short:   We may collect information regarding your geo-location, and phone number when you use our apps.
 
 If you use our Apps, we may also collect the following information:
-Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services. If you wish to change our access or permissions, you may do so in your devices settings. 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
-
-In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
+Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services. If you wish to change our access or permissions, you may do so in your devices settings.  Phone number:  we store your phone number and when you post on Teach, your phone number is made accessible for interested parties to contact you individually.   
+2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+In Short:  By agreeing to the Terms of Service and Privacy Policy, you consent for the Service to display your phone number if you post content on the app.  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
 We may process or share data based on the following legal basis:
 Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.
